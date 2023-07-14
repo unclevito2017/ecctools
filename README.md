@@ -1,3 +1,5 @@
+For those having issues compiling there is a precompiled folder "ecctools"<br>
+
 # ecctools
 Small collection of tools written in C for ECC and bitcoin
 
